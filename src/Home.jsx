@@ -86,7 +86,7 @@ return(
       <img src='' alt='' className='click19'></img>
       <img src='' alt='' className='click20'></img> */}
 
-      
+     <img src='./public/imgi_9_Poha-1.png' alt='' className='logo3'></img> 
    
    </div>
 </div>
