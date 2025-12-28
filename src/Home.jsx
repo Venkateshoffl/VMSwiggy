@@ -50,6 +50,7 @@ return(
 <img src="./food.png" alt="" className='food'/>
 <img src="./instamart.png" alt="" className='food1'/>
 <img src="./dine.png" alt="" className='food2'/>
+  <img src={swiggy2} alt='' className='logo3'/> 
 
 <div className='scroll'>
 
@@ -87,7 +88,7 @@ return(
       <img src='' alt='' className='click19'></img>
       <img src='' alt='' className='click20'></img> */}
 
-     <img src={swiggy2} alt='' className='logo3'/> 
+   
    
    </div>
 </div>
