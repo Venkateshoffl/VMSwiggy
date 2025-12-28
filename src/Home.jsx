@@ -1,7 +1,6 @@
 import './home.css'
 import './FoodSlider.jsx'
-import swiggy2 from './public/swiggy2.png'
-
+import swiggy2 from '../public/swiggy2.png'
 function Home(){
 
 return(
