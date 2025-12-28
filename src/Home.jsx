@@ -1,5 +1,6 @@
 import './home.css'
 import './FoodSlider.jsx'
+import swiggy2 from './public/swiggy2.png'
 
 function Home(){
 
@@ -86,7 +87,7 @@ return(
       <img src='' alt='' className='click19'></img>
       <img src='' alt='' className='click20'></img> */}
 
-     <img src='./public/imgi_9_Poha-1.png' alt='' className='logo3'></img> 
+     <img src={swiggy2} alt='' className='logo3'/> 
    
    </div>
 </div>
