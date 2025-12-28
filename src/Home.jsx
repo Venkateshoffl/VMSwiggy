@@ -16,7 +16,7 @@ return(
 <div>
 
 <img src='./swiggylogo.png'  className='swiggyicon'></img>
-<h1 className='corporates'>Swiggy Corporate</h1>
+<h1 className='corporates'>Sssssssswiggy Corporate</h1>
 <h2 className='corporates2'>Partner with us</h2>
 
 {/* <h4 className='corporates4'>Get the app</h4> */}
